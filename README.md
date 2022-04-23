@@ -1,114 +1,74 @@
 
-<h1 align="center">Hi 👋, I'm Trung</h1>
-<p align="center"><img src="https://img.icons8.com/color/48/000000/vietnam-circular.png"/></p>
-<h3 align="center">A passionate developer from Vietnam </h3>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=tiennhm" alt="tiennhm" /> <img src="https://badges.pufler.dev/repos/TienNHM" alt="tiennhm" /> </p>
 
-- ✍ I'm a student of: [Hanoi University of Science and Technology](https://hust.edu.vn) (HUST).
 
-- 🌱 I’m currently learning **Front-end.**
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=7AF79A&size=30&lines=Hi+there,+I'm+Trung;I'm+Front+end+web+developer...;I+always+learning+new+things;And+I'm+a+proud+Vietnamese+🇵🇰)](https://git.io/typing-svg)
+
+```python
+class TrungHere():
+    
+  def __init__(self):
+    self.Name = "Nguyen.Thanh.Trung";
+    self.username = "TrungHere";
+    self.University = "Hanoi University of Science and Technology";
+    self.location = "Hanoi, Viet Nam";
+    self.Gmail = "TrungHere@gmail.com";
+    self.fb = "https://www.facebook.com/Hellotrungio/";
+    
+  
+  def __str__(self):
+    return self.name
+
+if __name__ == '__main__':
+    me = TrungHere()
+```
 
 
 ## 📫 How to reach me:
 
-[![Join the chat at https://gitter.im/TienNHM/Github-Profile-Tutorial](https://badges.gitter.im/TrungHere/Github-Profile-Tutorial.svg)](https://gitter.im/TrungHere/Github-Profile-Tutorial?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
-
-
-  <a href="https://www.facebook.com/Hellotrungio/" alt="Facebook">
-    <img src="https://img.icons8.com/fluent/48/000000/facebook-new.png" target="_blank" />
-  </a> 
-  <a href="https://github.com/TrungHere" alt="Github">
-    <img src="https://img.icons8.com/fluent/48/000000/github.png"/>
-  </a> 
-  <a href="Trunghere@gmail.com" alt="Email">
-    <img src="https://img.icons8.com/fluent/48/000000/mailing.png"/>
-  </a>
-</p>
+[![Join the chat at https://gitter.im/Trunghere/Github-Profile-Tutorial](https://badges.gitter.im/TrungHere/Github-Profile-Tutorial.svg)](https://gitter.im/TrungHere/Github-Profile-Tutorial?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
 
 ## Skills:
 <p align="center">
-  <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="48" height="48"/> 
-  <img src="https://img.icons8.com/color/48/000000/microsoft-sql-server.png"/>
-  <img src="https://img.icons8.com/color/48/000000/mysql-logo.png"/>
-  <img src="https://img.icons8.com/color/48/000000/mongodb.png"/>
-  <img src="https://img.icons8.com/fluent/48/000000/matlab.png"/>
-  <img src="https://img.icons8.com/color/48/000000/git.png"/>
-  <img src="https://img.icons8.com/color/48/000000/github-2.png"/>
-  <img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/>
-  <img src="https://img.icons8.com/color/48/000000/visual-studio-2019.png"/>
-  <img src="https://img.icons8.com/dusk/48/000000/anaconda.png"/>
-  <img src="https://img.icons8.com/fluent/48/000000/spyder-ide.png"/>
-  <img src="https://img.icons8.com/color/48/000000/trello.png"/>
+
+  
+  <img src="https://img.icons8.com/nolan/64/github.png"/>
+  <img src="https://img.icons8.com/external-flaticons-lineal-color-flat-icons/64/000000/external-sql-computer-programming-flaticons-lineal-color-flat-icons.png"/>
+  <img src="https://img.icons8.com/external-flaticons-lineal-color-flat-icons/64/000000/external-css-mobile-app-development-flaticons-lineal-color-flat-icons-4.png"/>
+  <img src="https://img.icons8.com/external-flaticons-lineal-color-flat-icons/64/000000/external-javascript-computer-programming-flaticons-lineal-color-flat-icons.png"/>
+  <img src="https://img.icons8.com/external-flaticons-lineal-color-flat-icons/64/000000/external-html-mobile-app-development-flaticons-lineal-color-flat-icons-4.png"/>
+  <img src="https://img.icons8.com/external-flaticons-lineal-color-flat-icons/64/000000/external-python-mobile-app-development-flaticons-lineal-color-flat-icons-4.png"/>
+  <img src="https://img.icons8.com/nolan/64/visual-studio-code-2019.png"/>
 </p>
 
 <table style="width:100%;">
   <tr>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tiennhm&bg_color=FFFFFF00&text_color=179fa3&layout=compact&hide=CSS&langs_count=10&custom_title=Top%20ngôn%20ngữ%20được%20dùng" alt="tiennhm" width="100%"/>
-      <img src="https://github-readme-stats.vercel.app/api?username=tiennhm&bg_color=FFFFFF00&text_color=179fa3&show_icons=true&count_private=true&include_all_commits=true&custom_title=Hoạt%20động%20trên%20Github" alt="tiennhm" width="100%"/>
+     
+  <summary><b>💻 GitHub Profile Stats</b></summary>
+  <br/>
+  <p align="center">
+    <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="TrungHere's Github Stats" src="https://github-readme-stats.vercel.app/api?username=trunghere&show_icons=true&count_private=true&theme=algolia" height="192px"/></a>
+<br/>
+  &nbsp;
+	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=trunghere&langs_count=10&show_icons=true&locale=en&layout=compact&theme=algolia" alt="7oSkaaa" height="192px"/>
+  <br/>
+  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
+  </p>
+
+----
+
+
+  <br/>
     </td>
     <td>
-      <p align="center"> 
-        <img src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif" alt="dev" width="100%"/>
+      <p align="top"> 
+        <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" alt="dev" width="100%"/>
       </p>
     </td>
+   
   </tr>
 </table>
+  <summary><b>⚡ Recent GitHub Activity</b></summary>
+  <br/>
+   <a href="https://github.com/Trunghere"><img alt="Trunghere's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=trunghere&custom_title=trunghere's%20Contribution%20Graph&theme=react-dark" /></a>
 
-# Certificates:
-
-<p align="center">
-  <a href="https://matlabacademy.mathworks.com/progress/share/certificate.html?id=c2f444b8-d6ce-4eef-9934-48d7fa7da2d1">
-    <img alt="MATLAB Onramp" title="MATLAB Onramp" src="certificates/MATLAB-Onramp-certificate.png" width="300px" />
-  </a>
-  <a href="https://matlabacademy.mathworks.com/progress/share/certificate.html?id=ad7fb8de-67d7-487f-95ee-f3871a61b1e1">
-    <img alt="Machine Learning Onramp" title="Machine Learning Onramp" src="certificates/Machine-Learning-Onramp-certificate.png" width="300px" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://www.coursera.org/account/accomplishments/certificate/XFNU3UXCK5DG">
-    <img alt="Introduction to JavaScript" title="Introduction to JavaScript" src="certificates/Coursera%20XFNU3UXCK5DG.png" width="300px" />
-  </a>
-  <a href="https://www.coursera.org/account/accomplishments/certificate/MBSDFCKQ9X8E">
-    <img alt="Audio Classification with TensorFlow" title="Audio Classification with TensorFlow" src="certificates/Coursera%20MBSDFCKQ9X8E.png" width="300px" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://www.coursera.org/account/accomplishments/certificate/PQMJRCLM7BCQ">
-    <img alt="Python Data Structures" title="Python Data Structures" src="certificates/Coursera%20PQMJRCLM7BCQ.png" width="200px" />
-  </a>
-  <a href="https://www.coursera.org/account/accomplishments/certificate/V7MK7JDL96DU">
-    <img alt="Programming for Everybody (Getting Started with Python)" title="Programming for Everybody (Getting Started with Python)" src="certificates/Coursera%20V7MK7JDL96DU.png" width="200px" />
-  </a>
-  <a href="https://www.coursera.org/account/accomplishments/certificate/DVXXD98ESKLP">
-    <img alt="Capstone: Retrieving, Processing, and Visualizing Data with Python" title="Capstone: Retrieving, Processing, and Visualizing Data with Python" src="certificates/Coursera%20DVXXD98ESKLP.png" width="200px" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://www.kaggle.com/learn/certification/nguyenhuynhminhtien/python">
-    <img alt="Kaggle - Python" title="Kaggle - Python" src="certificates/Nguyen%20Huynh%20Minh%20Tien%20-%20Python.png" width="200px" />
-  </a>
-  <a href="https://www.kaggle.com/learn/certification/nguyenhuynhminhtien/intro-to-machine-learning">
-    <img alt="Kaggle - Intro to Machine Learning" title="Kaggle - Intro to Machine Learning" src="certificates/Nguyen%20Huynh%20Minh%20Tien%20-%20Intro%20to%20Machine%20Learning.png" width="200px" />
-  </a>
-  <a href="https://www.kaggle.com/learn/certification/nguyenhuynhminhtien/intro-to-deep-learning">
-    <img alt="Kaggle - Intro to Deep Learning" title="Kaggle - Intro to Deep Learning" src="certificates/Nguyen%20Huynh%20Minh%20Tien%20-%20Intro%20to%20Deep%20Learning.png" width="200px" />
-  </a>
-</p>
-<!--
-**TrungHere/TrungHere** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
