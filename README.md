@@ -7,7 +7,7 @@
 class TrungHere():
     
   def __init__(self):
-    self.Name = "Nguyen.Thanh.Trung";
+    self.Name = "Nguyen Thanh Trung";
     self.username = "TrungHere";
     self.University = "Hanoi University of Science and Technology";
     self.location = "Hanoi, Viet Nam";
