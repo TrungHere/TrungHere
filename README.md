@@ -1,7 +1,7 @@
 
 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=7AF79A&size=30&lines=Hi+there,+I'm+Trung;I'm+Front+end+web+developer...;I+always+learning+new+things;And+I'm+a+proud+Vietnamese+🇵🇰)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=FFBCA6&size=30&lines=Hi+there,+I'm+Trung;I'm+Front+end+web+developer...;I+always+learning+new+things;And+I'm+a+proud+Vietnamese+🇵🇰)](https://git.io/typing-svg)
 
 ```python
 class TrungHere():
