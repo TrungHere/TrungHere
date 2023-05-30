@@ -73,12 +73,7 @@ if __name__ == '__main__':
   
  <a href="https://github.com/Trunghere"><img alt="Trunghere's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=trunghere&custom_title=trunghere's%20Contribution%20Graph&theme=react-dark" /></a>
 
-<p align="center">
-  <a href='https://github.com/TrungHere/'>
-    <img width="75%" src="https://github.com/TrungHere/TrungHere/blob/master/metrics.svg"/>
-    <img src="https://github.com/JayantGoel001/JayantGoel001/blob/master/metrics.detailed.svg" width="75%"/>
-  </a>
-</p>
+
 
 
 
