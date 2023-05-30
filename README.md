@@ -27,6 +27,10 @@ if __name__ == '__main__':
 
 [![Join the chat at https://gitter.im/Trunghere/Github-Profile-Tutorial](https://badges.gitter.im/TrungHere/Github-Profile-Tutorial.svg)](https://gitter.im/TrungHere/Github-Profile-Tutorial?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
 
+
+
+## Skills:
+<p align="center">
 ```Javascript 
 const Trung = {
   pronouns: "He" | "Him",
@@ -37,10 +41,6 @@ const Trung = {
   }
 }
 ```
-
-## Skills:
-<p align="center">
-
   
   <img src="https://img.icons8.com/nolan/64/github.png"/>
   <img src="https://img.icons8.com/external-flaticons-lineal-color-flat-icons/64/000000/external-sql-computer-programming-flaticons-lineal-color-flat-icons.png"/>
