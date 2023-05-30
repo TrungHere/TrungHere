@@ -75,6 +75,7 @@ if __name__ == '__main__':
 
 ```Javascript 
 Developer dev = new Developer("Trung");
+
 While (dev.isInFrontOfComputer()) {
 	dev.openChromeBrowser();
 	dev.copeCodeFromStackOverflow();
