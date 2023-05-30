@@ -30,6 +30,17 @@ if __name__ == '__main__':
 
 
 ## Skills:
+```Javascript 
+const Trung = {
+  pronouns: "He" | "Him",
+  code: ["Javascript", "Python", "HTML", "CSS"],
+  askMeAbout: ["backend web dev", " nodejs", "python", ],
+  technologies: {
+      backend: ["nodejs", mongodb ,"JS"],
+  }
+}
+```
+
 <p align="center">
 ```Javascript 
 const Trung = {
@@ -54,7 +65,7 @@ const Trung = {
 <table style="width:100%;">
   <tr>
     <td>
-     
+ 
   <summary><b>💻 GitHub Profile Stats</b></summary>
   <br/>
   <p align="center">
