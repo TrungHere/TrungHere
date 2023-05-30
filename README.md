@@ -74,6 +74,9 @@ if __name__ == '__main__':
  <a href="https://github.com/Trunghere"><img alt="Trunghere's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=trunghere&custom_title=trunghere's%20Contribution%20Graph&theme=react-dark" /></a>
 
 
-### Yo! Look at this snake eating up my contributions! <img src= "https://c.tenor.com/BczFoyx41WoAAAAj/swallowed-the-mighty-ones.gif" width= "30" height= "30">  :
+### Yo! Look at this snake eating up my contributions!   <br>
+  <p align="center">
+  <img src="https://github.com/DHANOLA/DHANOLA/raw/output/github-contribution-grid-snake.svg" alt="snake"></center>
+</p>
 
 ![snake gif](https://github.com/AvidCoder101/AvidCoder101/blob/output/github-contribution-grid-snake.gif)
