@@ -27,17 +27,16 @@ if __name__ == '__main__':
 
 [![Join the chat at https://gitter.im/Trunghere/Github-Profile-Tutorial](https://badges.gitter.im/TrungHere/Github-Profile-Tutorial.svg)](https://gitter.im/TrungHere/Github-Profile-Tutorial?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
 
-
-const badri = {
+```Javascript 
+const Trung = {
   pronouns: "He" | "Him",
-  code: ["Javascript", "Python", "HTML", "CSS", "C++"],
-  askMeAbout: ["web dev", "frontend dev", "python", "flask"],
+  code: ["Javascript", "Python", "HTML", "CSS"],
+  askMeAbout: ["backend web dev", " nodejs", "python", ],
   technologies: {
-      frontend: ["HTML", "CSS", "JS", "Bootstrap"],
-      backend: ["Flask", "JS"],
+      backend: ["nodejs", mongodb ,"JS"],
   }
 }
-
+```
 
 ## Skills:
 <p align="center">
