@@ -91,7 +91,7 @@ Developer dev = new Developer("Trung");
 
  While (dev.isInFrontOfComputer()) {
 	dev.openChromeBrowser();
-	dev.copeCodeFromStackOverflow();
+	dev.copyCodeFromStackOverflow();
 	dev.pasteCodeInIDE();
 	dev.feelLikeAProfessionalDeveloper();
 };
