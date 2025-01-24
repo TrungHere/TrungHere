@@ -84,7 +84,7 @@ const Trung = {
   <summary><b>⚡ Recent GitHub Activity</b></summary>
   <br/>
   
- <a href="https://github.com/Trunghere"><img alt="Trunghere's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=trunghere&custom_title=trunghere's%20Contribution%20Graph&theme=react-dark" /></a>
+
 
 ```Javascript 
 Developer dev = new Developer("Trung");
